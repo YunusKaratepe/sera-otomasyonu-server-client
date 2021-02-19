@@ -1,0 +1,5 @@
+1- nodejs'i yükleyin: https://nodejs.org/en/
+2- Sırayla şu komutları node komut satırında çalıştırın.
+- npm install node-fetch
+- npm install cors
+- npm install express
